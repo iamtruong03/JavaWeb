@@ -1,0 +1,29 @@
+﻿/*Các xử lý định dạng cho body*/
+body{
+	color: #444;
+	font-family: arial;
+	font-size: 16px;	
+}
+	
+.bg-full{
+	background: url(../6.jpg);
+}
+
+.view{
+	width: 100%;
+	height: auto;
+	
+	/*border-width: 10px;
+	border-style: solid;
+	border-color: blue;*/
+	
+	border-top: 10px solid blue;
+	border-bottom: 5px solid orange;
+	
+	box-shadow: 10px 5px 5px #888;	
+	
+	border-radius: 0 30% 0 30%;
+	
+}
+
+
